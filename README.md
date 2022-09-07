@@ -1,2 +1,1 @@
-# beanmovies
-# BeanMovies
+使用uniapp开发的电影资讯类小程序，暂无线上版本。
