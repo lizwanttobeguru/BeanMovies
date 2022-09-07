@@ -1,1 +1,2 @@
-使用uniapp开发的电影资讯类小程序，暂无线上版本，可克隆至本地查看。
+# beanmovies
+# BeanMovies
